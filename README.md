@@ -4,11 +4,11 @@ This repository contains my **Data Structures & Algorithms (DSA)** solutions tha
 
 The purpose of this repository is to:
 
-- 📖 Improve problem-solving skills
-- 💻 Strengthen DSA concepts
-- 🔥 Maintain consistency in coding
-- 📈 Track my learning journey
-- 🎯 Prepare for coding interviews and placements
+- 📖 Improve problem-solving skills.
+- 💻 Strengthen DSA concepts.
+- 🔥 Maintain consistency in coding.
+- 📈 Track my learning journey.
+- 🎯 Prepare for coding interviews and placements.
 
 ---
 
