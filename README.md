@@ -92,11 +92,5 @@ Give it a ⭐ to support my learning journey.
 
 ---
 
-## 📬 Connect with Me
-
-- GitHub: https://github.com/gautamjay13
-- LinkedIn: https://www.linkedin.com/in/gautamjay13
-
----
 
 ### Happy Coding! 🚀
